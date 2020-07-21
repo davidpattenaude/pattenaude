@@ -1,7 +1,7 @@
 baseURL = "pattenau.de"
 languageCode = "en-us"
 title = "David Pattenaude"
-theme = "hugo-whisper-theme"
+theme = "hugo-whisper-theme-extended"
 themesDir = "themes"
 
 pygmentsCodeFences = true
