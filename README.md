@@ -1,3 +1,3 @@
 # www.pattenau.de
 
-My personal website.
+My personal website built with Hugo.
