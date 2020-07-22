@@ -20,4 +20,4 @@ I provided services such as data recovery, hardware replacement, PC building and
 One thing I was proud of with BinaryMedic is the amount of education I was able to provide users on maintaining their devices and reducing repairs in the long-haul. I strived and focused on this business practice. While this ideology does not align well with the industry standard that banks on consumers returning for repairs in a couple of weeks, it develops long-lasting and happy clients.
 
 
-Want to view another project? Return to a list of [my projects](/work).
+Want to view another project? Return to a list of [my projects](/experience).

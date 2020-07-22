@@ -24,4 +24,4 @@ The second project I was tasked with was to develop and test a new IVR and softp
 
 
 
-Want to view another project? Return to a list of [my projects](/work).
+Want to view another project? Return to a list of [my projects](/experience).

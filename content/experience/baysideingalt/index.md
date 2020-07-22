@@ -20,4 +20,4 @@ As the organization grew and moved into its first permanent building, the need f
 My desire for Bayside was to assist in the development of the organization's use of modern network infrastructure to provide a performant and reliable network so that the organization could increase its outreach to the local community. Bayside provided a great experience for me and taught me that a little can go a long way.
 
 
-Want to view another project? Return to a list of [my projects](/work).
+Want to view another project? Return to a list of [my projects](/experience).
