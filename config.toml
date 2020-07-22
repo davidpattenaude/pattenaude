@@ -39,7 +39,7 @@ summaryLength = 30
 
 [params]
     mainSections = ["story", "experience", "thoughts", "contact"]
-    google_analytics_id=""
+    google_analytics_id="UA-173232462-1"
     homepage_button_link = "/experience"
     homepage_button_text =  "My Experience"
     homepage_button2_link = "/thoughts"
