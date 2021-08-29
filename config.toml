@@ -22,15 +22,15 @@ summaryLength = 30
     url = "/story/"
     weight = 2
 
-[[menu.main]]
-    name = "My Experience"
-    url = "/experience/"
-    weight = 3
+#[[menu.main]]
+#    name = "My Experience"
+#    url = "/experience/"
+#    weight = 3
 
-[[menu.main]]
-    name ="Thoughts"
-    url = "/thoughts/"
-    weight = 4
+#[[menu.main]]
+#    name ="Thoughts"
+#    url = "/thoughts/"
+#    weight = 4
 
 [[menu.main]]
     name ="Contact"
@@ -44,19 +44,19 @@ summaryLength = 30
     homepage_button_text =  "My Experience"
     homepage_button2_link = "/thoughts"
     homepage_button2_text = "My Thoughts"
-    homepage_intro = "Grab some coffee, tea, or a gluten free beer and stay awhile. Learn why I love helping people through my passion for technology."
+    homepage_intro = "Grab some coffee, tea, or a beer and stay awhile. Learn why I love helping people through my passion for technology."
     homepage_image = ""
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
     [params.homepage_meta_tags]
-        meta_description = "Grab some coffee, tea, or a gluten free beer and stay awhile. Learn why I love helping people through my passion for technology."
+        meta_description = "Grab some coffee, tea, or a beer and stay awhile. Learn why I love helping people through my passion for technology."
         meta_og_title = "David Pattenaude"
         meta_og_type = "website"
         meta_og_url = "https://pattenau.de"
         meta_og_image = "/images/tn.png"
-        meta_og_description = "Grab some coffee, tea, or a gluten free beer and stay awhile. Learn why I love helping people through my passion for technology."
+        meta_og_description = "Grab some coffee, tea, or a beer and stay awhile. Learn why I love helping people through my passion for technology."
         meta_twitter_card = "summary"
         meta_twitter_site = "@davidpattenaude"
         meta_twitter_creator = "@davidpattenaude"

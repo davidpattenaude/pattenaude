@@ -15,12 +15,10 @@ Below, you will find my education and some of the projects I have been involved 
 
 ### Stanislaus State
 
-I am currently finishing a degree at California State University Stanislaus in Business Administration with a concentration in Computer Information Systems.
-
-I have been recognized on the Dean's List of [Fall 2019](http://meritpages.com/pattenaude).
+I graduated Summa Cum Laude at California State University, Stanislaus in Business Administration with a concentration in Computer Information Systems.
 
 My education involves diverse project management experience, experience in SQL technologies such as Oracle databases, and fluency in Python.
 
 ### Sacramento City College
 
-I graduated Fall of 2018 with highest honors within the Business Administration program at Sacramento City College with a well-rounded general education and business education.
+I graduated with highest honors within the Business Administration program at Sacramento City College with a well-rounded general education and business education.

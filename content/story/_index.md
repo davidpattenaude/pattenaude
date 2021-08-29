@@ -20,6 +20,4 @@ Throughout high school, I started repairing computers for family, friends, neigh
 
 In high school, I found my niche in server administration and a love for all backend technologies. It is thrilling to be able to manage a stack and see it scale well in production. My favorite technologies involve virtualization and the resurgence of containerization in projects such as Kubernetes and Docker.  
 
-This brings me to today. I work at Covered California as a student assistant and have been tasked to develop internal programs that are used in production and scale within the organization. I also freelance on the side for small businesses in network design and administration.
-
 Want to work with me or just say hi? Get in touch [here](/contact/).
