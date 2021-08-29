@@ -40,10 +40,10 @@ summaryLength = 30
 [params]
     mainSections = ["story", "experience", "thoughts", "contact"]
     google_analytics_id="UA-173232462-1"
-    homepage_button_link = "/experience"
-    homepage_button_text =  "My Experience"
-    homepage_button2_link = "/thoughts"
-    homepage_button2_text = "My Thoughts"
+ #   homepage_button_link = "/experience"
+ #   homepage_button_text =  "My Experience"
+ #   homepage_button2_link = "/thoughts"
+ #   homepage_button2_text = "My Thoughts"
     homepage_intro = "Grab some coffee, tea, or a beer and stay awhile. Learn why I love helping people through my passion for technology."
     homepage_image = ""
 
