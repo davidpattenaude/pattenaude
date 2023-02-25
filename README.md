@@ -1,3 +1,3 @@
-# www.pattenau.de
+# pattenau.de
 
-My personal website built with Hugo.
+My website, built with [Astro](https://astro.build/).

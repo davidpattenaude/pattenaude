@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Contact Me';
+const description = 'Contact me, David Pattenaude.';
+const permalink = `${Astro.site.href}contact`;
+---
+
+<BaseLayout title={title} description={description} permalink={permalink} current="contact">
+  <div class="container">
+    <h1>Contact</h1>
+    <p></p>
+    <p>Reaching out is easy! Catch me on <a href="https://www.linkedin.com/in/davidpattenaude">LinkedIn</a> or email me at <a href="mailto:david@pattenau.de">david@pattenau.de</a>.</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .aboutme-images {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    place-items: center;
+    gap: 10px;
+  }
+  .about-image {
+    max-width: 300px;
+
+  }
+
+  .about-image img {
+    border-radius: 8px;
+  }
+
+  @media (max-width: 800px) {
+    .aboutme-images {
+      grid-template-columns: auto;
+      place-items: center;
+    }
+  }
+</style>
