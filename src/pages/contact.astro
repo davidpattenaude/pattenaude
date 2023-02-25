@@ -13,27 +13,3 @@ const permalink = `${Astro.site.href}contact`;
     <p>Reaching out is easy! Catch me on <a href="https://www.linkedin.com/in/davidpattenaude">LinkedIn</a> or email me at <a href="mailto:david@pattenau.de">david@pattenau.de</a>.</p>
   </div>
 </BaseLayout>
-
-<style>
-  .aboutme-images {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    place-items: center;
-    gap: 10px;
-  }
-  .about-image {
-    max-width: 300px;
-
-  }
-
-  .about-image img {
-    border-radius: 8px;
-  }
-
-  @media (max-width: 800px) {
-    .aboutme-images {
-      grid-template-columns: auto;
-      place-items: center;
-    }
-  }
-</style>
