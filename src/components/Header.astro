@@ -16,6 +16,7 @@ const { current = '' } = Astro.props;
 </style>
 
 <header>
-  {current === "" ? "" : <Logo /> }
+  <!-- {current === "" ? "" : <Logo /> } -->
+  <Logo />
   <Nav current={current} />
 </header>
