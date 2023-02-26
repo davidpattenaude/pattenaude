@@ -2,7 +2,6 @@
 import '../styles/fonts.css'
 import '../styles/global.css'
 import { SITE_TITLE } from "../config";
-const { current = '' } = Astro.props;
 
 export interface Props {
   title: string;
@@ -31,7 +30,7 @@ const socialUrl = Astro.site.href + 'assets/social.png'
 
 
 <!-- Primary Meta Tags -->
-{current === "" ? <title>{SITE_TITLE}</title> : <title>{title} | {SITE_TITLE}</title> }
+<title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
